@@ -7,20 +7,6 @@
 |0.1.1 | In progress | First version |
 
 
-## Signal interface
-| Signal  | Direction | Domain  | Description                           |
-|:--------|:---------:|:-------:|:--------------------------------------|
-| VDD_1V8 | Input     | VDD_1V8 | Main supply                           |
-| VIN     | Input     | VDD_1V8 | Negative input                        |
-| VIP     | Input     | VDD_1V8 | Positive input                        |
-| VOP     | Input     | VDD_1V8 | Positive output                       |
-| VON     | Input     | VDD_1V8 | Negative output                       |
-| LPCO    | Output    | VDD_1V8 | Common mode loop output               |
-| LPCI    | Input     | VDD_1V8 | Common mode loop input. Short to LCPO |
-| IBPSR   | Input     | VDD_1V8 | Bias current (2 uA )                  |
-| VSS     | Input     | Ground  |                                       |
-
-
 ## Key parameters
 | Parameter                   | Min | Typ             | Max | Unit |
 |:----------------------------|:---:|:---------------:|:---:|:----:|
