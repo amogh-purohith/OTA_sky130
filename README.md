@@ -4,7 +4,7 @@
 ## Changelog/Plan
 | Version | Status | Comment|
 | :-| :-| :-|
-|0.1.0 | In progress | First version |
+|0.1.1 | In progress | First version |
 
 
 ## Signal interface
