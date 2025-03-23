@@ -1,4 +1,4 @@
-# OTA_SKY130NM
+# OTA_sky130
 
 
 ## Changelog/Plan
