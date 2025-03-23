@@ -1,13 +1,13 @@
-## OTA_SKY130NM
+# OTA_SKY130NM
 
 
-# Changelog/Plan
+## Changelog/Plan
 | Version | Status | Comment|
 | :-| :-| :-|
 |0.1.0 | In progress | First version |
 
 
-# Signal interface
+## Signal interface
 | Signal  | Direction | Domain  | Description                           |
 |:--------|:---------:|:-------:|:--------------------------------------|
 | VDD_1V8 | Input     | VDD_1V8 | Main supply                           |
@@ -21,7 +21,7 @@
 | VSS     | Input     | Ground  |                                       |
 
 
-# Key parameters
+## Key parameters
 | Parameter                   | Min | Typ             | Max | Unit |
 |:----------------------------|:---:|:---------------:|:---:|:----:|
 | Technology                  |     | Skywater 130 nm |     |      |
@@ -33,7 +33,7 @@
 | Load capacitance            | 5   |                 |     | pF   |
 
 
-# Status
+## Status
 
 | Stage                       | TYPE | Status | Comment                        |
 | :---                        | :-:  | :---:  | :--:                           |
