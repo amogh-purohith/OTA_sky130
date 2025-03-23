@@ -27,10 +27,10 @@
 | Technology                  |     | Skywater 130 nm |     |      |
 | AVDD                        | 1.7 | 1.8             | 1.9 | V    |
 | Temperature                 | -40 | 27              | 125 | C    |
-| Loop gain (fb=500k,in=100k) | 63  | 68              | 72  | dB   |
-| Bias current                |     | 2               |     | uA   |
+| Loop gain (fb=500k,in=100k) |  -  | -              | -  | dB   |
+| Bias current                |     | -               |     | uA   |
 | Current from VDD            |     | 30              |     | uA   |
-| Load capacitance            | 5   |                 |     | pF   |
+| Load capacitance            | 10   |                 |     | pF   |
 
 
 ## Status
