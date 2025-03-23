@@ -1,10 +1,10 @@
-# OTA_SKY130NM
+## OTA_SKY130NM
 
 
 # Changelog/Plan
 | Version | Status | Comment|
 | :-| :-| :-|
-|0.1.0 | :white_check_mark: | First version |
+|0.1.0 | In progress | First version |
 
 
 # Signal interface
@@ -29,10 +29,9 @@
 | Temperature                 | -40 | 27              | 125 | C    |
 | Loop gain (fb=500k,in=100k) | 63  | 68              | 72  | dB   |
 | Bias current                |     | 2               |     | uA   |
-| Current from VDD            |     | 92              |     | uA   |
+| Current from VDD            |     | 30              |     | uA   |
 | Load capacitance            | 5   |                 |     | pF   |
 
-See [sim/CNR_OTA/README.md](sim/CNR_OTA/README.md) for detailed results
 
 # Status
 
